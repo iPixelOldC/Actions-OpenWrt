@@ -3,7 +3,8 @@
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars)](https://github.com/P3TERX/Actions-OpenWrt/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks)](https://github.com/P3TERX/Actions-OpenWrt/fork)
-
+![Build OpenWrt](https://github.com/iPixelOldC/Actions-OpenWrt/workflows/Build%20OpenWrt/badge.svg)
+![Build OpenWrt (macOS)](https://github.com/iPixelOldC/Actions-OpenWrt/workflows/Build%20OpenWrt%20(macOS)/badge.svg)
 Build OpenWrt using GitHub Actions
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
